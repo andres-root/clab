@@ -1,0 +1,3 @@
+set dis intel
+set auto-load safe-path /
+
